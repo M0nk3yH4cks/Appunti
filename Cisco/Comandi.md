@@ -16,3 +16,5 @@
 ## DHCP
 ###### Gateway
 Il Gateway deve essere uguale all'IP della **sottorete**
+###### DNS
+Il DNS deve essere uguale all'IP del **server stesso**
