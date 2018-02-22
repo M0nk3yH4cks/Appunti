@@ -12,7 +12,7 @@
 
 **ip address** *IP* *NetMask*: associa un ip alla sottorete
 
-**ip helper-address** *DHCP IP*: associa la sottorete ad un server DHCP
+**ip helper-address** *DHCP-IP*: associa la sottorete ad un server DHCP
 ## DHCP
 ###### Gateway
 Il Gateway deve essere uguale all'IP della **sottorete**
