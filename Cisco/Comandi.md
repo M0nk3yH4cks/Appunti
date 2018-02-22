@@ -8,4 +8,4 @@
 ###### Config
 **interface fastethernet** *1/0.1*: entrare in modalità configurazione interfaccia
 ###### Config-If
-** encapsulation dot1q** *vlanid*: associa la sottorete ad una vlan
+** encapsulation dot1q ** *vlanid*: associa la sottorete ad una vlan
